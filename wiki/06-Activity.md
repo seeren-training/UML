@@ -9,7 +9,7 @@ ___
 
 Le diagramme d'activité est l'un des diagrammes comportementaux UML qui peut être utilisé pour modéliser un processus ou un algorithme sous la forme d'une séquence d'étapes. C'est une version plus sophistiquée de son proche cousin le diagramme Flowchart. Les diagrammes d'activités peuvent être utilisés pour modéliser des processus métier.
 
-![image](https://raw.githubusercontent.com/seeren-training/UML/master/wiki/resources/06/activity.jpg)
+![image](https://raw.githubusercontent.com/seeren-training/UML/master/wiki/resources/07/activity.jpg)
 
 ___
 
