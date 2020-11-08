@@ -16,6 +16,7 @@ ___
 * [Package](https://github.com/seeren-training/UML/wiki/03)
 * [Classe](https://github.com/seeren-training/UML/wiki/04)
 * [Sequence](https://github.com/seeren-training/UML/wiki/05)
-* [Deploiement](https://github.com/seeren-training/UML/wiki/06)
+* [Activity](https://github.com/seeren-training/UML/wiki/06)
+* [Deploiement](https://github.com/seeren-training/UML/wiki/07)
 
 ___

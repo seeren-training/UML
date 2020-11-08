@@ -57,13 +57,13 @@ L'élément Send décrit l'action d'envoi d'un signal, dans un diagramme d'activ
 
 ![image](https://raw.githubusercontent.com/seeren-training/UML/master/wiki/resources/07/e-send.png)
 
-### 🏷️ **Receive **
+### 🏷️ **Receive**
 
 Un élément Receive définit l'acceptation ou la réception d'une demande, dans un diagramme d'activité.
 
 ![image](https://raw.githubusercontent.com/seeren-training/UML/master/wiki/resources/07/e-receive.png)
 
-### 🏷️ **Region **
+### 🏷️ **Region**
 
 Enterprise Architect prend en charge deux types d'éléments de région: les régions d'expansion et les régions d'activité interruptible.
 
