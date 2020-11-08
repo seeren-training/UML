@@ -22,13 +22,13 @@ ___
 
 Le motif MVC possède une organisation type de paquetage, si vous êtes dans l'utilisation d'un cadre applicatif, les responsabilités sont claires et documentées, la prise de décision est minimisée. Sans framework, je vous conseil de vous inspirer des règles établies par différents cadres pour vous cadrer vous même.
 
-🔗 [Spring best practices](https://medium.com/the-resonant-web/spring-boot-2-0-project-structure-and-best-practices-part-2-7137bdcba7d3)
+🔗 [Symfony folder organisation](https://symfony.com/doc/current/best_practices.html#use-the-default-directory-structure)
 
 ___
 
 👨🏻‍💻 Manipulation
 
-Créer un diagramme de package pour votre projet orienté back ou synthétisant l'organisation d'un projet sur Spring si votre projet est front uniquement, **utilisez les notes et commentaires pour expliquer la responsabilité de chaque paquet**.
+Créer un diagramme de package pour votre projet orienté back ou synthétisant l'organisation d'un projet, **utilisez les notes et commentaires pour expliquer la responsabilité de chaque paquet**.
 
 ___
 
@@ -56,11 +56,3 @@ Créer un diagramme de package pour votre projet front orienté composant, **uti
 ___
 
 Le diagramme de package n'appartient pas à la vue développement pour rien, c'est un outil important d'analyse et de prise de décision avant création de classes.
-
-___
-
-👨🏻‍💻 Manipulation
-
-Mettez vos classes dans le package correspondant et complétez votre diagramme de classe: ajouter une ou des classes sans opérations dans chaque package sur votre diagramme de classe principal. Différencier les classes par une couleur et mettez en place les relations.
-
-___

@@ -59,24 +59,8 @@ Un connecteur d'extension est utilisé pour indiquer qu'un élément étend le c
 
 ___
 
-## 📑 Logiciel
-
-Plusieurs logiciels permettent de modéliser, notre objectif et de procéder à une manipulation rapide sans être géné par la compréhension de l'outil.
-
-* Enterprise Architect
-* Visio
-* ArgoUml
-* BOUML
-* PlantUML
-* StarUML
-
-L'URSSAF utilise Enterprise Architect par exemple qui est un outil complet mais qui demande une courbe d'apprentissage longue. 
-
-> Pour rester focus sur UML et ne pas avoir de contrainte logiciel je préconise actuellement StarUML qui possède une interface dépouillée. Vous pouvez exporter votre diagramme sous forme d'image et de fragment pour qu'il puisse être importé dans un autre fichier de travail.
-___
-
 👨🏻‍💻 Manipulation
 
-Installer un logiciel UML puis proposer les use cases diagrammes des projets respectifs au niveau des objectifs utilisateur sans détail. Les pousser sur le repository ou un autre dédié.
+Proposer le/les use cases diagrammes des ECF respectifs au niveau des objectifs utilisateur.
 
 ___

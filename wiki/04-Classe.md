@@ -180,7 +180,6 @@ ___
 
 ## 📑 Interfaces
 
-
 ![image](https://raw.githubusercontent.com/seeren-training/UML/master/wiki/resources/03/interface.jpg)
 
 Une interface est une spécification de comportement (ou contrat) que les implémenteurs acceptent de respecter. Les interfaces en UML ne possèdent que des spécification d’opérations publiques.
@@ -200,3 +199,17 @@ Un objet source implémente ou réalise son objet de destination.
 ![image](https://raw.githubusercontent.com/seeren-training/UML/master/wiki/resources/03/realization.jpg)
 
 La classe qui implémente une interface doit implémenter l'es opérations déclarés, soit directement soit complété par un parent. 
+
+___
+
+## 📑 Classes abstraites
+
+Les classes abstraites ne peuvent pas s'instancier et proposent comme les interfaces de paser des contrats. L'înteret est de mettre en place le pattern template methode. C'est à dire une méthode public qui utilise en contrat protected.
+
+___
+
+👨🏻‍💻 Manipulation
+
+Créer un diagramme de classe pour votre projet front et back, **ne représentez pas les accesseurs et mutateurs**.
+
+___

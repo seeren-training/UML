@@ -75,3 +75,29 @@ La vue physique représente le système du point de vue d'un ingénieur système
 Les scénarios décrivent des séquences d'interactions entre objets et entre processus. Ils sont utilisés pour identifier les éléments architecturaux et pour illustrer et valider la conception de l'architecture.
 
 * Use case diagram
+
+
+___
+
+## 📑 Logiciel
+
+Plusieurs logiciels permettent de modéliser, notre objectif et de procéder à une manipulation rapide sans être géné par la compréhension de l'outil.
+
+* Enterprise Architect
+* Visio
+* ArgoUml
+* BOUML
+* PlantUML
+* StarUML
+
+L'URSSAF utilise Enterprise Architect par exemple qui est un outil complet mais qui demande une courbe d'apprentissage longue. 
+
+> Pour rester focus sur UML et ne pas avoir de contrainte logiciel je préconise actuellement StarUML qui possède une interface dépouillée. Vous pouvez exporter votre diagramme sous forme d'image et de fragment pour qu'il puisse être importé dans un autre fichier de travail.
+
+___
+
+👨🏻‍💻 Manipulation
+
+Installer un logiciel UML.
+
+___
