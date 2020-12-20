@@ -12,7 +12,7 @@ ___
 
 ## 📑 Structure
 
-> Pour faire le lien avec la programmation procédurale. Voyez la classe comme un fichier qui rassemble des variables et des fonctions avec une syntaxe particulière.
+> Pour faire le lien avec la programmation procédurale. Voyez la classe comme un fichier qui rassemble des variables et des fonctions avec une syntaxe différente.
 
 Une classe possède un identifiant, une structure avec ses attributs puis un comportement avec ses opéations (méthodes). Contraitement à la programmation fonctionnelle elle permet de réutiliser des attributs (variables) et des opéations (fonctions) pour le contexte d'éxécution de la classe. 
 
@@ -30,7 +30,7 @@ Chaque objet possède les attributs et méthodes dont les valeurs sont rattaché
 
 ### 🏷️ **Identifiant**
 
-L'identifiant d'une calsse doit respecter les convention de nommage d'un langage cible. Généralent en `PascalCase` ou `StudlyCaps`.
+L'identifiant d'une classe doit respecter les convention de nommage d'un langage cible. Généralent en `PascalCase` ou `StudlyCaps`.
 ___
 
 ## 📑 Modifieurs
@@ -88,12 +88,6 @@ Un attribut peut posséder une valeur d'initialisation en utilisant l'opérateur
 ```
 ___
 
-👨🏻‍💻 Manipulation
-
-En vous aidant de vos Wireframes, proposer un diagramme de classe contenant des classes avec des attributs qui doivent être affichés dans votre application. Il s'agit de la couche modèle.
-
-___
-
 ## 📑 Opérations
 
 > Une opération propose une manipulation extérieure pour exécuter un comportement d'appuyant éventuellement sur les attributs dont le niveau de visibilité est restreint: les opérations sont généralement publiques.
@@ -115,6 +109,12 @@ Les arguments sont optionnels, ils ne sont pas limités en nombre, ils possèden
 ```js
 + createProduct(name: String, color: String = "White"): void
 ```
+
+___
+
+👨🏻‍💻 Manipulation
+
+Pour votre dernier programme, proposer un diagramme de classe contenant des classes avec ses attributs et ses méthodes. Apportez un soin à la couleurs, taille, alignements.
 
 ___
 
@@ -204,12 +204,12 @@ ___
 
 ## 📑 Classes abstraites
 
-Les classes abstraites ne peuvent pas s'instancier et proposent comme les interfaces de paser des contrats. L'înteret est de mettre en place le pattern template methode. C'est à dire une méthode public qui utilise en contrat protected.
+Les classes abstraites ne peuvent pas s'instancier et proposent comme les interfaces de paser des contrats. L'înteret de son utilisation est de mettre en place le pattern template methode. C'est à dire une méthode public qui utilise en contrat protected.
 
 ___
 
 👨🏻‍💻 Manipulation
 
-Créer un diagramme de classe pour votre projet front et back, **ne représentez pas les accesseurs et mutateurs**.
+Complétez votre diagramme en ajoutant les implémentations et généralisations si elles concernent votre code source.
 
 ___

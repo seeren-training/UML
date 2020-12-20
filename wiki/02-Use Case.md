@@ -34,6 +34,7 @@ Un System est un élément non UML utilisé pour définir les limites conceptuel
 
 Un cas d'utilisation est un élément de modélisation UML qui décrit comment un utilisateur du système proposé interagit avec le système pour effectuer une unité de travail discrète.
 
+> Le principe [GRASP Controller](https://fr.wikipedia.org/wiki/GRASP_(programmation)#Contr%C3%B4leur) nous indique "*Le controlleur à la responsbilité de traiter les événements du système à une classe non-UI qui représente l'ensemble du système ou d'un scénario cas d'utilisation*". De ce fait voyez vos use case comme les actions d'un controller.
 
 ### 🏷️ **Associate**
 
@@ -57,10 +58,17 @@ Un connecteur d'extension est utilisé pour indiquer qu'un élément étend le c
 
 > Cela suppose que le use case étendu doit être associé pour que l'extension soit également associée sous condition.
 
+
+### 🏷️ **Generalization**
+
+![image](https://raw.githubusercontent.com/seeren-training/UML/master/wiki/resources/02/generalize.png)
+
+S'utilise pour indiquer un héritage, entre acteurs notamment.
+
 ___
 
 👨🏻‍💻 Manipulation
 
-Proposer le/les use cases diagrammes des ECF respectifs au niveau des objectifs utilisateur.
+Pour votre dernier programme, proposer le/les use cases diagrammes au niveau objectifs utilisateur.
 
 ___

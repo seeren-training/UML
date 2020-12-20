@@ -72,7 +72,7 @@ ___
 
 👨🏻‍💻 Manipulation
 
-Pour un Use Case, créez un diagramme de séquence. Mettez e place les lignes de vies et utilisez la syntaxe observée pour les relier. Vous devrez penser responsabilité et identifiants des opérations d'interactions pour compléter le diagramme
+Pour un Use Case, créez un diagramme de séquence. Mettez en place les lignes de vies et utilisez la syntaxe observée pour les relier. Vous devrez penser responsabilité et identifiants des opérations d'interactions pour compléter le diagramme
 
 ___
 

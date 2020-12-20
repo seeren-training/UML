@@ -28,7 +28,7 @@ ___
 
 👨🏻‍💻 Manipulation
 
-Créer un diagramme de package pour votre projet orienté back ou synthétisant l'organisation d'un projet, **utilisez les notes et commentaires pour expliquer la responsabilité de chaque paquet**.
+Pour votre dernier programme orienté back, créer un diagramme de package, **utilisez les notes et commentaires pour expliquer la responsabilité de chaque paquet**.
 
 ___
 
@@ -36,7 +36,7 @@ ___
 
 Le motif CBA possède une organisation orientée vue, très différente de l'organisation MVC. Chaque composant d'affichage est une classe qui possède son dossier. Si un composant en possède un autre ce sera un sous dossier
 
-🔗 [Angular structural gidelines](https://angular.io/guide/styleguide#style-04-06)
+🔗 [Angular structural guidelines](https://angular.io/guide/styleguide#style-04-06)
 
 * app
   * heroes
@@ -51,8 +51,8 @@ ___
 
 👨🏻‍💻 Manipulation
 
-Créer un diagramme de package pour votre projet front orienté composant, **utilisez les notes et commentaires pour expliquer la responsabilité de chaque paquet**.
+Pour votre dernier programme orienté front, créer un diagramme de package, **utilisez les notes et commentaires pour expliquer la responsabilité de chaque paquet**.
 
 ___
 
-Le diagramme de package n'appartient pas à la vue développement pour rien, c'est un outil important d'analyse et de prise de décision avant création de classes.
+> Le diagramme de package n'appartient pas à la vue développement pour rien, c'est un outil important d'analyse et de prise de décision avant création de classes.

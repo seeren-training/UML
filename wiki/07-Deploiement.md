@@ -56,3 +56,5 @@ ___
 Interrogez vous sur les nœuds requis pour un déploiement sur mobile et/ou web en fonction de votre projet et représentez dans un premier temps les nœuds et artefacts. Dans un second temps mettez les en relation.
 
 ___
+
+> UML n'est pas une méthode mais nous pouvons nous servir de son découpage par "vue". Si vous souhaitez d'être plus précis sur son intégration le long d'un cycle de vie application vous trouverez le support complémentaire suivant: [https://github.com/seeren-training/Methodo/wiki](https://github.com/seeren-training/Methodo/wiki)
