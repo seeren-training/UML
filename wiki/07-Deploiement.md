@@ -17,7 +17,7 @@ ___
 
 ### 🏷️ **Actor**
 
-🔗 [Use Case](https://github.com/POEC-20-05/UML/wiki/02) / Syntaxe
+Les acteurs sont ceux du Use Case diagramme.
 
 ### 🏷️ **Node**
 
@@ -57,4 +57,4 @@ Interrogez vous sur les nœuds requis pour un déploiement sur mobile et/ou web 
 
 ___
 
-> UML n'est pas une méthode mais nous pouvons nous servir de son découpage par "vue". Si vous souhaitez d'être plus précis sur son intégration le long d'un cycle de vie application vous trouverez le support complémentaire suivant: [https://github.com/seeren-training/Methodo/wiki](https://github.com/seeren-training/Methodo/wiki)
+> UML n'est pas une méthode mais nous pouvons nous servir de son découpage par "vue".

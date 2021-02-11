@@ -71,11 +71,11 @@ L'identifiant de l'attribut doit respecter les convention de nommage d'un langag
 
 Afin de pouvoir traduire votre diagramme en code source il est conseillé d'aligner vos types sur celui d'un langage cible. Référez vous à l'arborescence des types du langage.
 
-* 🔗 [Java Data Types](https://static.javatpoint.com/images/java-data-types.png)
+[Java Data Types](https://static.javatpoint.com/images/java-data-types.png)
 
-* 🔗 [JavaScript Data Types](https://www.c-sharpcorner.com/article/datatypes-in-javascript/Images/Presentation20.jpg)
+[JavaScript Data Types](https://www.c-sharpcorner.com/article/datatypes-in-javascript/Images/Presentation20.jpg)
 
-* 🔗 [TypeScript Data Types](https://objectcomputing.com/files/2815/7237/9988/1911-sett-img01.png)
+[TypeScript Data Types](https://objectcomputing.com/files/2815/7237/9988/1911-sett-img01.png)
 
 En dehors des Built In types et come chaque classe est un type vous pouvez spécifier un User Defined Type.
 
@@ -158,7 +158,7 @@ ___
 
 Une généralisation est une relation taxonomique entre un classificateur plus général et un classificateur plus spécifique. Chaque instance du classificateur spécifique est également une instance indirecte du classificateur général. Ainsi, le classificateur spécifique hérite des fonctionnalités du classificateur plus général.
 
-![image](https://raw.githubusercontent.com/seeren-training/UML/master/wiki/resources/03/generalisation.jpg)
+![image](https://raw.githubusercontent.com/seeren-training/UML/master/wiki/resources/03/generalisation.png)
 
 > L'héritage précise que la classe fille hérite de tous les attributs et méthodes, qu'ils soient publics, protégés ou privés. Cependant, elle ne peut pas utiliser directement les attributs et méthodes privés (que ce soit en lecture ou en écriture), sauf par l'intermédiaire d'une méthode héritée (publique ou protégée). 
 
@@ -168,7 +168,7 @@ Pratique pour factoriser des attributs et opérations, il faut que la relation s
 
 Un canard en plastique ne doit pas hériter d'un canard parce que c'est un jouet.
 
-![image](https://raw.githubusercontent.com/seeren-training/UML/master/wiki/resources/03/01-LSP.jpg)
+![image](https://raw.githubusercontent.com/seeren-training/UML/master/wiki/resources/03/01-LSP.png)
 
 ___
 
@@ -187,8 +187,6 @@ Une interface est une spécification de comportement (ou contrat) que les implé
 ### 🏷️ **Représentation**
 
 Se représente sous forme de rond sans détail ou dans un rectangle avec détail.
-
-![image](https://raw.githubusercontent.com/seeren-training/UML/master/wiki/resources/03/interface-exemple.png)
 
 ### 🏷️ **Interface Realization**
 
@@ -211,5 +209,3 @@ ___
 👨🏻‍💻 Manipulation
 
 Complétez votre diagramme en ajoutant les implémentations et généralisations si elles concernent votre code source.
-
-___

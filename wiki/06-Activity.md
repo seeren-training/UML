@@ -84,5 +84,3 @@ ___
 👨🏻‍💻 Manipulation
 
 Représentez les activités qui demandent une éclaircicement logique.
-
-___

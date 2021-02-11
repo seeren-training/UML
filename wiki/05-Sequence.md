@@ -18,7 +18,7 @@ ___
 
 ### 🏷️ **Actor**
 
-🔗 [Use Case](https://github.com/POEC-20-05/UML/wiki/02) / Syntaxe
+Les acteurs sont ceux du Use Case diagramme.
 
 ### 🏷️ **Lifeline**
 
@@ -56,12 +56,6 @@ En principe, seuls les appels de méthode sont affichés dans le diagramme de s�
 
 Un Self-Message reflète un nouveau processus ou une nouvelle méthode invoquée au sein de l'opération de la ligne de vie appelante.
 
-### 🏷️ **Destruction**
-
-![image](https://raw.githubusercontent.com/seeren-training/UML/master/wiki/resources/05/destruction.jpg)
-
-Si un objet est détruit lors de l'appel d'une méthode, la ligne de vie de l'objet se termine par une croix sous le symbole d'appel de méthode.
-
 ### 🏷️ **Creation**
 
 ![image](https://raw.githubusercontent.com/seeren-training/UML/master/wiki/resources/05/creation.png)
@@ -88,15 +82,15 @@ Les fragments possèdent un opérateur et optionnellement une guard.
 
 Les opérateurs permettent de donner un sens sémantique au fragment.
 
-* alt : fragments multiple alternatifs (if else)
-* opt : fragment optionnel (if)
-* par : fragment parallèle (traitements concurrents)
-* loop : le fragment s'exécute plusieurs fois
-* region : région critique (un seul thread à la fois)
-* neg : une interaction non valable
-* break : représente des scenario d'exception
-* ref : référence à une interaction dans un autre diagramme
-* sd : fragment du diagramme de séquence en entier
+* alt: fragments multiple alternatifs (if else)
+* opt: fragment optionnel (if)
+* par: fragment parallèle (traitements concurrents)
+* loop: le fragment s'exécute plusieurs fois
+* region: région critique (un seul thread à la fois)
+* neg: une interaction non valable
+* break: représente des scenario d'exception
+* ref: référence à une interaction dans un autre diagramme
+* sd: fragment du diagramme de séquence en entier
 
 ### 🏷️ **Guard**
 
@@ -107,5 +101,3 @@ ___
 👨🏻‍💻 Manipulation
 
 Complétez votre diagramme en utilisant un ou plusieurs fragments.
-
-___

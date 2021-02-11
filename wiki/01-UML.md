@@ -9,7 +9,7 @@ ___
 
 ## 📑 Historique
 
-De nombreuses propositions de représentations graphiques pou les langages orientés objets on été formulés.
+De nombreuses propositions de représentations graphiques pour les langages orientés objets on été formulés.
 
 ![image](https://raw.githubusercontent.com/seeren-training/UML/master/wiki/resources/01/02-History.jpg)
 
@@ -99,5 +99,3 @@ ___
 👨🏻‍💻 Manipulation
 
 Installer un logiciel UML.
-
-___
