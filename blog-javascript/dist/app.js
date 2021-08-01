@@ -1,1 +1,0 @@
-(()=>{"use strict";new function e(){!function(e,t){if(!(e instanceof t))throw new TypeError("Cannot call a class as a function")}(this,e),"foo"in this?Object.defineProperty(this,"foo",{value:true,enumerable:!0,configurable:!0,writable:!0}):this.foo=true}})();

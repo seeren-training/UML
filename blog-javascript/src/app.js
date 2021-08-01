@@ -1,5 +1,3 @@
-class Toto {
-    foo = true;
-}
+import { RegisterComponent } from "./register/register.component";
 
-new Toto();
+new RegisterComponent();

@@ -26,5 +26,8 @@
     "webpack": "latest",
     "webpack-cli": "latest",
     "webpack-dev-server": "latest"
+  },
+  "dependencies": {
+    "jquery": "^3.6.0"
   }
 }
